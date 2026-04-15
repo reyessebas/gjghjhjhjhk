@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
-  <defs><linearGradient id="m2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0c1b3f"/><stop offset="100%" stop-color="#050816"/></linearGradient></defs>
-  <rect width="1200" height="800" fill="url(#m2)"/><circle cx="870" cy="210" r="130" fill="#22d3ee" opacity="0.24"/><circle cx="420" cy="570" r="200" fill="#f97316" opacity="0.12"/><text x="80" y="730" fill="#fff" opacity="0.9" font-size="42" font-family="Space Grotesk, Arial, sans-serif">RECUERDO 02</text>
-</svg>
